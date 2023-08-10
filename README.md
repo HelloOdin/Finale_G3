@@ -1,18 +1,10 @@
-# LBYCPG2_FinalProject
-This project was created by Shan Pleños and Francisco Armintia.
+# LBYCPG3_FinalProject
+This project was created by Francisco Armintia, Sarrah Dela Cruz, Gabriel Medina and Shan Pleños.
 
 # Overview
-As college students, we recognized that many of our peers struggle to find the time and resources to prepare healthy and satisfying meals. We saw an opportunity to create a website that would provide a collection of easy-to-make recipes specifically tailored to the needs of college students.
-
-By curating a selection of recipes that require minimal ingredients, prep time, and cooking skills, we aimed to empower our peers to cook for themselves and take control of their health and wellness. The search bar, category sorting, and popular recipe space were added to make the user experience as efficient and enjoyable as possible.
-
-Our goal was to create a go-to resource for college students who want to eat well without sacrificing too much time, effort, or money. The website is a testament to our commitment to helping others and promoting a healthy and sustainable lifestyle among your peers.
+As college students, we recognized that many of our peers struggle to find the time and resources to prepare healthy and satisfying meals. We saw an opportunity to create a website that would provide a collection of some of the popular food selections in De La Salle University Laguna Campus.
 
 # Getting Started
-
-[NOT NECESSARY IF YOU DOWNLOAD THE ZIP FILE FROM GITHUB] Go to this website and download the project file (Final_Project_CPG2) that is zipped: 
-https://drive.google.com/drive/folders/1zeC2VXZK38kqyX8CafKkXJWdHDO00ORW?usp=share_link
-
 NOTE! Before running the project, make sure that "Node.js", "Python", and "VSCode" are installed in your local device. In order to check if you have them installed in your local device, follow these steps:
 
     For "Node.js":
@@ -95,7 +87,7 @@ This was tested on the latest versions of VS code (1.77), Python (3.11), Node JS
 
 # Video Demonstration
 The link below provides the video demonstration of the website:
-https://drive.google.com/file/d/1dfcx2W5PX1o9rj_rg1bpYFC96A5ZZ4Cq/view?usp=sharing
+
 
 
 
